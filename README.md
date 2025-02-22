@@ -76,23 +76,4 @@ This project is licensed under the **MIT License** – see the [LICENSE](LICENSE
 
 ---
 
-🔹 **Keep coding, keep learning! 🚀**  
-```
-
----
-
-### 📌 **How to Add This to Your Repository**  
-1️⃣ **Open Git Bash or Command Prompt** and navigate to your project folder:  
-```bash
-cd C_Projects_Tracker
-```
-2️⃣ **Create the README.md file** (if not already present):  
-```bash
-echo "# 🚀 C Projects Tracker" > README.md
-```
-3️⃣ **Open `README.md` and paste the above content.**  
-4️⃣ **Save the file** and run the following commands to push the changes to GitHub:  
-```bash
-git add README.md
-git commit -m "Added complete README.md"
-git push origin main
+🔹 **Keep coding, keep learning! 🚀**
